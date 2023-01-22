@@ -9,6 +9,12 @@ Tap Service info > Configuration > Rooting Status. If Bootloader unlock allowed 
 
 
 
+
+
+more ROMS https://cyanogenmodroms.com/sony/
+
+
+
 Install the device drivers and platform tools
 If necessary, download and install the USB drivers.
 If you are running Windows: Download and install the latest USB drivers. Follow the instructions on the site.
